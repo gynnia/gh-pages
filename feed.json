@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de contenu",
+    "description": "",
+    "home_page_url": "https://gynnia.github.io/gh-pages",
+    "feed_url": "https://gynnia.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ngân"
+    },
+    "items": [
+        {
+            "id": "https://gynnia.github.io/gh-pages/les-vacances-sont-terminees.html",
+            "url": "https://gynnia.github.io/gh-pages/les-vacances-sont-terminees.html",
+            "title": "Les vacances sont terminées",
+            "summary": " Je ne suis plus la même ",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://gynnia.github.io/gh-pages/media/posts/1/16be69214025dc9ff6c89799d28006b8.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-xs.jpg 300w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-sm.jpg 480w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-md.jpg 768w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-lg.jpg 1024w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-xl.jpg 1360w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-2xl.jpg 1600w\"  alt=\"Les vacances sont terminées \" width=\"474\" height=\"474\">\n<figcaption >Je ne suis plus la même </figcaption>\n</figure>\n<p> </p>",
+            "author": {
+                "name": "Ngân"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-30T21:07:35+02:00",
+            "date_modified": "2021-10-30T21:25:28+02:00"
+        }
+    ]
+}

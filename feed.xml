@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gestion de contenu</title>
+    <link href="https://gynnia.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://gynnia.github.io/gh-pages" />
+    <updated>2021-10-30T21:25:28+02:00</updated>
+    <author>
+        <name>Ngân</name>
+    </author>
+    <id>https://gynnia.github.io/gh-pages</id>
+
+    <entry>
+        <title>Les vacances sont terminées</title>
+        <author>
+            <name>Ngân</name>
+        </author>
+        <link href="https://gynnia.github.io/gh-pages/les-vacances-sont-terminees.html"/>
+        <id>https://gynnia.github.io/gh-pages/les-vacances-sont-terminees.html</id>
+
+        <updated>2021-10-30T21:25:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Je ne suis plus la même 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image" ><img loading="lazy" src="https://gynnia.github.io/gh-pages/media/posts/1/16be69214025dc9ff6c89799d28006b8.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-xs.jpg 300w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-sm.jpg 480w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-md.jpg 768w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-lg.jpg 1024w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-xl.jpg 1360w ,https://gynnia.github.io/gh-pages/media/posts/1/responsive/16be69214025dc9ff6c89799d28006b8-2xl.jpg 1600w"  alt="Les vacances sont terminées " width="474" height="474">
+<figcaption >Je ne suis plus la même </figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
